@@ -9,7 +9,7 @@ Dit bevat verwijzingen naar mijn projecten en andere zaken die ik heb gedaan om 
 
 In de documentatie map staan al mijn onderzoeksdocumenten die ik voor mijn project heb gemaakt.  
 Voor de documentatie heb ik geprobeerd alles zo veel mogelijk in DOT Framework te maken.  
-Het DOT Framework 
+Het DOT Framework is een onderzoekmethode die helpt bij het praktijkgericht onderzoek doen. Het onderzoek is dan vooral gericht op het product wat je wil ontwikkelen.  
 
 ## Proof of concepts
 
