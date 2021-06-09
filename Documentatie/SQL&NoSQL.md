@@ -10,6 +10,8 @@ In het project wil ik data op een juiste manier opslaan. Hiervoor wil ik een dat
 Nu zijn er verschillende soorten databases met als belangrijkste verschil SQL en NoSQL, daarom ga ik onderzoeken.  
 Met dit onderzoek hoop ik duidelijk te krijgen welke data structuur ik voor dit project wil gebruiken, maar natuurlijk ook kennis verzamelen om toe te kunnen passen op volgende projecten.
 
+### Deelvragen
+
 #### Wat is het verschil tussen SQL en NoSQL
 
 Het verschil in SQL en NoSQL zit hem in de structuur van de database welke bij SQL aanwezig is en bij NoSQL niet.
