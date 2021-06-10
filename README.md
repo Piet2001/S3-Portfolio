@@ -31,9 +31,9 @@ Mijn project was een quiz game over brandweerkazernes. Dit project bestaat uit d
 - [Spring boot backend - Microservice](https://github.com/Piet2001/game-data-service)
 - [Keycloak authenticatie service](https://www.keycloak.org/)
 
-### Bronnen
+## Bronnen
 
 - [React tutorial Tic-tac-toe](https://reactjs.org/tutorial/tutorial.html)
 - [React tutorial taks-manager](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
-- [Spring boot mircroservices tutorial movie-Catolog](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas)
+- [Spring boot mircroservices tutorial movie-Catalog](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas)
 - [DOT Framework](https://ictresearchmethods.nl/The_DOT_Framework)
