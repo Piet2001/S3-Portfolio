@@ -192,7 +192,7 @@ docker:
            password: ${{ secrets.DOCKER_PASSWORD }}
 ```
 
-uiteindelijk heb ik dus een image van mijn backend op dockerHub staan.
+uiteindelijk heb ik dus een image van mijn backend op dockerHub staan.  
 ![dockerHub](Afbeeldingen/DockerHub.png)
 
 ## Bronnen
