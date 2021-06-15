@@ -193,7 +193,7 @@ docker:
 ```
 
 uiteindelijk heb ik dus een image van mijn backend op dockerHub staan.  
-![dockerHub](Afbeeldingen/DockerHub.png)
+![dockerHub](Afbeeldingen/DockerHub.png)  
 
 ## Bronnen
 
