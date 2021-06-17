@@ -12,6 +12,12 @@ Voor de documentatie heb ik geprobeerd alles zo veel mogelijk in DOT Framework t
 Het DOT Framework is een onderzoekmethode die helpt bij het praktijkgericht onderzoek doen.
 Het onderzoek is dan vooral gericht op het product wat je wil ontwikkelen.  
 
+## Leeruitkomsten
+
+Voor dit semester moesten er ook een aantal leeruitkomsten worden aangetoond.
+Dit heb ik op verschillende manieren met mijn [proof of concepts](#proof-of-concepts), [project](#project) en [documentatie](#documentatie).
+Om dit allemaal duidelijk vast te zetten heb ik [hier](Leeruitkomsten/README.md) een overzicht gemaakt.
+
 ## Proof of concepts
 
 Bij het onderzoeken hoe je het best iets kunt maken kun je verschillende dingen doen.  
@@ -37,3 +43,4 @@ Mijn project was een quiz game over brandweerkazernes. Dit project bestaat uit d
 - [React tutorial taks-manager](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
 - [Spring boot mircroservices tutorial movie-Catalog](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas)
 - [DOT Framework](https://ictresearchmethods.nl/The_DOT_Framework)
+- LEON Algemeen
