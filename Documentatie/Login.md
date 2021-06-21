@@ -43,9 +43,11 @@ Door deze controle weet je zeker dat niet iedereen gebruik zal maken van je appl
 
 #### Gebruikte strategie
 
-![library](https://ictresearchmethods.nl/images/thumb/8/87/Logo-library.png/75px-Logo-library.png)
+![library](https://ictresearchmethods.nl/images/thumb/8/87/Logo-library.png/75px-Logo-library.png)  
 
-### Zelf maken of opensource gebruiken
+- Literature study
+
+### Waarom zou ik een opensource systeem gebruiken
 
 Een inlog systeem kun je zelf maken, maar inmiddels zijn er ook verschillende bedrijven die een "plug and play" versie hebben die je kunt gebruiken.
 Je moet dus wanneer je een login systeem gaat integreren goed nadenken over wat je wil.
@@ -65,6 +67,8 @@ Of een systeem wat door veel mensen word onderhouden en je dus zeker weet dat he
 
 ![library](https://ictresearchmethods.nl/images/thumb/8/87/Logo-library.png/75px-Logo-library.png)
 
+- Community research
+
 ### Welke bestaande systemen kan ik gebruiken
 
 Er zijn vele bestaande systemen die je kunt gebruiken voor je project.
@@ -78,6 +82,8 @@ Een belangrijk voorbeeld van waar je voor kan kiezen is of je wil dat gebruikers
 #### Gebruikte strategie
 
 ![showroom](https://ictresearchmethods.nl/images/thumb/2/22/Logo-showroom.png/75px-Logo-showroom.png)
+
+- Benchmark-test
 
 ### Wat doet een authenticatie service
 
@@ -93,6 +99,9 @@ Alles wordt door de service verzorgd.
 #### Gebruikte strategie
 
 ![library](https://ictresearchmethods.nl/images/thumb/8/87/Logo-library.png/75px-Logo-library.png)
+
+- Literature study
+- Community research
 
 ## Conclusie
 
@@ -111,6 +120,8 @@ Dit kun je in een paar stappen doen:
 
 ![workshop](https://ictresearchmethods.nl/images/thumb/e/ea/Logo-workshop.png/75px-Logo-workshop.png)
 
+- 	Prototyping
+- 
 ## Bronnen
 
 - [Inloggen Wikipedia](https://nl.wikipedia.org/wiki/Inloggen)
