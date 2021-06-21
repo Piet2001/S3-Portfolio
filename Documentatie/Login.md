@@ -120,8 +120,8 @@ Dit kun je in een paar stappen doen:
 
 ![workshop](https://ictresearchmethods.nl/images/thumb/e/ea/Logo-workshop.png/75px-Logo-workshop.png)
 
-- 	Prototyping
-- 
+- Prototyping
+
 ## Bronnen
 
 - [Inloggen Wikipedia](https://nl.wikipedia.org/wiki/Inloggen)
