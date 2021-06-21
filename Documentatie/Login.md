@@ -2,12 +2,30 @@
 
 ## Hoofdvraag
 
-Waarom is een login Systeem belangrijk voor je applicatie?
+Hoe kan ik een login systeem op mijn app zetten?
 
 ## Reden van het onderzoek
 
-Omdat vele systemen zijn beveiligd met een login systeem wil ik dat ook bij mijn app integreren.
-Een belangrijke vraag is dan alleen, waarom is het belangrijk/nodig om je app te beveiligen met zo'n systeem.
+Graag wil ik dat mijn app alleen gebruikt kan worden door specifieke mensen.
+Daarom wil ik graag mijn app beveiligen, zodat niet iedereen er in kan.
+
+## Hoe ga ik het onderzoek doen
+
+Bij het DOT-Framework zijn er verschillende manieren voor het doen van research.
+Je kunt door deze methode goed research doen op verschillende vlakken van je vraag.
+Ook kom je hierdoor vaak op een betere oplossing voor je probleem.  
+Binnen het DOT-Framework heb je de volgende strategieën:
+
+| Strategie                                                                                                      | Beschrijving                                                                                                                                                                                    |
+| -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Library ![library](https://ictresearchmethods.nl/images/thumb/8/87/Logo-library.png/75px-Logo-library.png)     | Onderzoek doen op basis van bestaande bronnen en onderzoeken.                                                                                                                                   |
+| Field ![Field](https://ictresearchmethods.nl/images/thumb/d/d4/Logo-field.png/75px-Logo-field.png)             | Onderzoek de meningen van mogelijke gebruikers. Je gaat kijken hoe je je kennis kunt verbreden. Vaak gebruik je in dit onderzoek een enquête om ook de meningen van andere te kunnen gebruiken. |
+| LAB ![lab](https://ictresearchmethods.nl/images/thumb/a/ac/Logo-lab.png/75px-Logo-lab.png)                     | Hierbij ga je zaken vergelijken en testen met bijv. unit tests.                                                                                                                                 |
+| Showroom ![showroom](https://ictresearchmethods.nl/images/thumb/2/22/Logo-showroom.png/75px-Logo-showroom.png) | Hierbij ga je meerdere producten met elkaar vergelijken. Je bekijkt dan welke het beste bij jou applicatie werkt.                                                                               |
+| Workshop ![workshop](https://ictresearchmethods.nl/images/thumb/e/ea/Logo-workshop.png/75px-Logo-workshop.png) | Hierbij maak je een prototype/proof of concept om te kijken hoe het werkt.                                                                                                                      |
+
+Per vraag zal ik gaan kijken welke strategie het beste is.
+Er wordt per vraag aangeven welke strategie daar is aangegeven.
 
 ## Deelvragen
 
@@ -22,6 +40,10 @@ Wanneer een gebruiker een account heeft kan deze door middel van een gebruikersn
 De ingevulde gegevens worden door het systeem gecontroleerd en wanneer deze correct zijn kan de gebruiker gebruik maken van de app.
 Wanneer de gegevens niet correct zijn, zal een nieuwe login poging gedaan moeten worden.
 Door deze controle weet je zeker dat niet iedereen gebruik zal maken van je applicatie aangezien mensen zonder account er dan niet bij kunnen.
+
+#### Gebruikte strategie
+
+![library](https://ictresearchmethods.nl/images/thumb/8/87/Logo-library.png/75px-Logo-library.png)
 
 ### Zelf maken of opensource gebruiken
 
@@ -39,6 +61,10 @@ Dus de keuze is belangrijk, waar kies je voor.
 Zelf iets maken zodat je alles weet.
 Of een systeem wat door veel mensen word onderhouden en je dus zeker weet dat het veilig is.
 
+#### Gebruikte strategie
+
+![library](https://ictresearchmethods.nl/images/thumb/8/87/Logo-library.png/75px-Logo-library.png)
+
 ### Welke bestaande systemen kan ik gebruiken
 
 Er zijn vele bestaande systemen die je kunt gebruiken voor je project.
@@ -48,6 +74,10 @@ Bekende tools die ik kan gebruiken zijn: Auth0, keycloak, Okta.
 Ieder systeem heeft zijn voor en nadelen.
 Het is dus vooral zaak dat je vooraf bekijkt welke zaken belangrijk zijn voor jou app en welke tool jou dit kan bieden.
 Een belangrijk voorbeeld van waar je voor kan kiezen is of je wil dat gebruikers met bijv. een facebook of google account kunnen inloggen.
+
+#### Gebruikte strategie
+
+![showroom](https://ictresearchmethods.nl/images/thumb/2/22/Logo-showroom.png/75px-Logo-showroom.png)
 
 ### Wat doet een authenticatie service
 
@@ -60,16 +90,30 @@ Je weet nu dus zeker dat alleen de mensen met rechten er bij kunnen.
 Je hoeft zelf dus niet veel te doen voor je beveiliging.
 Alles wordt door de service verzorgd.
 
+#### Gebruikte strategie
+
+![library](https://ictresearchmethods.nl/images/thumb/8/87/Logo-library.png/75px-Logo-library.png)
+
 ## Conclusie
 
-Het hebben van een login systeem op je applicatie is voor de veiligheid een belangrijke stap.
-Door dit systeem voorkom je dat mensen op pagina's komen waar je eigenlijk niet van wil dat ze er komen.
-Ook kun je op deze manier zorgen dat alleen mensen waarvan je wil dat ze je app gebruiken deze kunnen gebruiken.
-Het hebben van een inlog systeem is dus zeker aan te raden en daarom zal ik het ook zeker in mijn app verwerken.
-Allen geregistreerde mensen kunnen de game spelen.
+Met keycloak is het makkelijk om een inlog systeem op je website te krijgen.
+Dit kun je in een paar stappen doen:
+| Stap                   | Actie                                                             |
+| ---------------------- | ----------------------------------------------------------------- |
+| Download Keycloak      | In het begin zorg je dat je keycloak hebt geïnstalleerd.          |
+| Start Keycloak         | Start de keycloak applicatie                                      |
+| Login to admin         | Login op je admin console                                         |
+| Maak realm             | Maak een realm voor je app                                        |
+| Voer app in            | Voer alle gegevens van je app en en configureer alle instellingen |
+| Voeg een gebruiker toe | Maak een gebruiker aan voor je app die kan inloggen               |
+
+#### Gebruikte strategie
+
+![workshop](https://ictresearchmethods.nl/images/thumb/e/ea/Logo-workshop.png/75px-Logo-workshop.png)
 
 ## Bronnen
 
 - [Inloggen Wikipedia](https://nl.wikipedia.org/wiki/Inloggen)
 - [Systemen](https://www.saasworthy.com/product-alternative/5998/keycloak)
-- [authorization_services](https://www.keycloak.org/docs/latest/authorization_services/index.html)
+- [authorization services](https://www.keycloak.org/docs/latest/authorization_services/index.html)
+- [Keycloak React](https://www.powerupcloud.com/keycloak-with-java-and-reactjs/)
