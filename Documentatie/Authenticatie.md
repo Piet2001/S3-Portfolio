@@ -1,12 +1,12 @@
-# Login Systeem
+# Authenticatie
 
 ## Hoofdvraag
 
-Hoe kan ik een login systeem op mijn app zetten?
+Hoe kan ik een authenticatie systeem op mijn app zetten?
 
 ## Reden van het onderzoek
 
-Graag wil ik dat mijn app alleen gebruikt kan worden door specifieke mensen.
+Graag wil ik dat mijn app alleen gebruikt kan worden door specifieke gebruikers.
 Daarom wil ik graag mijn app beveiligen, zodat niet iedereen er in kan.
 
 ## Hoe ga ik het onderzoek doen
