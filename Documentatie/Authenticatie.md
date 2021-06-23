@@ -8,6 +8,8 @@ Hoe kan ik een authenticatie systeem op mijn app zetten?
 
 Graag wil ik dat mijn app alleen gebruikt kan worden door specifieke gebruikers.
 Daarom wil ik graag mijn app beveiligen, zodat niet iedereen er in kan.
+Door dit onderzoek wil ik graag duidelijk gaan krijgen op welke manier ik mijn applicatie kan gaan beveiligen.
+Maar ook hoe de beveiliging werkt.
 
 ## Hoe ga ik het onderzoek doen
 
@@ -26,6 +28,14 @@ Binnen het DOT-Framework heb je de volgende strategieën:
 
 Per vraag zal ik gaan kijken welke strategie het beste is.
 Er wordt per vraag aangeven welke strategie daar is aangegeven.
+
+### Welke strategieën heb ik gekozen
+
+Over het algemeen zal ik de de library/desk en workshop strategie gebruiken.
+Dit houd in dat ik veel bronnen zal gaan lezen er gebruiken, maar ook dat ik een concept ga maken.
+De bronnen die ik hoop te gaan gebruiken zijn officiële sites van producten die ik kan gebruiken.  
+![library](https://ictresearchmethods.nl/images/thumb/8/87/Logo-library.png/75px-Logo-library.png)
+![workshop](https://ictresearchmethods.nl/images/thumb/e/ea/Logo-workshop.png/75px-Logo-workshop.png)
 
 ## Deelvragen
 
