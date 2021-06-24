@@ -56,7 +56,7 @@ Waar je bij andere methodes veel wordt gelet op uitgebreide code met veel mogeli
 Want in de software wereld is het snel kunnen leveren van een applicatie bijna belangrijker dan de app zelf.
 Een belangrijk element daarvan is daarom ook het tegengaan van verspilling.
 Hierbij is het belangrijk dat je vooraf alles zo goed mogelijk filtert.
-De zaken zoals onduidelijke requiements, slechte communicatie en vertragingen in het ontwikkelproces moeten zo snel mogelijk worden opgelost.
+De zaken zoals onduidelijke requirements, slechte communicatie en vertragingen in het ontwikkelproces moeten zo snel mogelijk worden opgelost.
 Kortom, alles wat niks toevoegt voor de klant word gezien als verspilling.
 Verder is het bij Lean vrijer om dingen op meerdere manieren te maken.
 Je gaat dus aan de slag om iets te maken en kijkt daarna welke optie je wil hebben.

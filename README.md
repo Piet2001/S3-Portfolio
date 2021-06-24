@@ -43,4 +43,5 @@ Mijn project was een quiz game over brandweerkazernes. Dit project bestaat uit d
 - [React tutorial taks-manager](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
 - [Spring boot mircroservices tutorial movie-Catalog](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas)
 - [DOT Framework](https://ictresearchmethods.nl/The_DOT_Framework)
+- [DOT Framework methoden](https://ictresearchmethods.nl/Methods)
 - LEON Algemeen
